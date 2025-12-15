@@ -4,7 +4,7 @@
 > (1ビットアセンブラに浪漫の静けさを)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mj2Lm9Rz1d63R40t_q0mq3KdtIXJ9jBg?usp=sharing)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sueyoshiryosuke/NOR1-5Archi/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 
 ## 📖 Overview (概要)
