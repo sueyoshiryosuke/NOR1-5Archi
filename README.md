@@ -1,7 +1,7 @@
 # 🕹️ NOR1-5Archi Emulator (N1-5A)
 
-> **"The Silence of Romance in 1-bit Assembler"**
-> (1ビットアセンブラに浪漫の静けさを)
+> **"The Silence of Romance in 1-bit Digital!!"**
+> (1ビットデジタルに浪漫の静けさ！)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mj2Lm9Rz1d63R40t_q0mq3KdtIXJ9jBg?usp=sharing)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sueyoshiryosuke/NOR1-5Archi/blob/main/LICENSE)
